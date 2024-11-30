@@ -1,0 +1,9 @@
+PyYAML==6.0.2
+pytest==8.3.3
+pywin32
+numpy==2.0.2
+pillow==11.0.0
+ipython
+opencv-python==4.10.0.84
+torch==2.5.1
+ultralytics==8.3.36
